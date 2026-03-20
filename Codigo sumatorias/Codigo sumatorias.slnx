@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Codigo sumatorias/Codigo sumatorias.vcxproj" />
+  <Project Path="Codigo sumatorias/Codigo sumatorias.vcxproj" Id="890e0507-a8d6-47ee-8fbd-96aab10cb94b" />
 </Solution>

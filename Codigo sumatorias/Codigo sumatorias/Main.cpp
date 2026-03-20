@@ -61,10 +61,12 @@ int main()
         while (j <= n)
         {
             j++;
+            cout << j << endl;
             temp2++;
         }
         i++;
     }
+    cout << i << endl;
     cout << temp1 << " y " << temp2 << endl;
 
 
