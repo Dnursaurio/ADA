@@ -1,0 +1,3 @@
+﻿  puntos_mas_cercanos.cpp
+D:\ADA\distancia mas corta entre n puntos\distancia mas corta entre n puntos\puntos_mas_cercanos.cpp(116,10): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  distancia mas corta entre n puntos.vcxproj -> D:\ADA\distancia mas corta entre n puntos\x64\Debug\distancia mas corta entre n puntos.exe

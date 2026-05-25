@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="distancia mas corta entre n puntos/distancia mas corta entre n puntos.vcxproj" Id="b3d2acd5-fb8c-4925-9fff-114a33e88c2e" />
+</Solution>
