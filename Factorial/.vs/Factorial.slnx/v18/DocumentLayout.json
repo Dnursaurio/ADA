@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADA\\Factorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F636C299-D138-46D7-BFAB-8F002818634F}|Factorial\\Factorial.vcxproj|D:\\ADA\\Factorial\\Factorial\\Factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F636C299-D138-46D7-BFAB-8F002818634F}|Factorial\\Factorial.vcxproj|solutionrelative:Factorial\\Factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factorial.cpp",
+              "DocumentMoniker": "D:\\ADA\\Factorial\\Factorial\\Factorial.cpp",
+              "RelativeDocumentMoniker": "Factorial\\Factorial.cpp",
+              "ToolTip": "D:\\ADA\\Factorial\\Factorial\\Factorial.cpp",
+              "RelativeToolTip": "Factorial\\Factorial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T22:05:04.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

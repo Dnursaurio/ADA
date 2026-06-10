@@ -1,0 +1,4 @@
+﻿  Factorial.cpp
+D:\ADA\Factorial\Factorial\Factorial.cpp(18,1): warning C4715: 'factorial': no todas las rutas de acceso de control devuelven un valor
+  LINK : no se encontró D:\ADA\Factorial\x64\Debug\Factorial.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Factorial.vcxproj -> D:\ADA\Factorial\x64\Debug\Factorial.exe
