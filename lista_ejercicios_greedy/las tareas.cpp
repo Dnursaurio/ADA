@@ -42,7 +42,7 @@ void planificacion_de_tareas(vector<tarea> &lista_tareas)
 	{
 		if(slots[k] != -1)
 		{
-			cout<< "En el intante " << k << " se ejecuta la tarea "<< slots[k] << endl;
+			cout<< "En el instante " << k << " se ejecuta la tarea "<< slots[k] << endl;
 		}
 	}
 }

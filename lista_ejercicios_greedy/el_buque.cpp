@@ -40,9 +40,9 @@ void mochila(vector<contenedor> &b, int capacidad_max)
 
 int main()
 {
-	cout<<"item A maximizar el "
-	vector<contenedor> b = {{12,14},{21,90},{30,20},{10,16}};
-	int capacidad_tn = 25;
+	cout<<"item A maximizar el ";
+	vector<contenedor> b = {{20,1},{50,2},{90,3},{120,4}};
+	int capacidad_tn = 120;
 	mochila(b,capacidad_tn);
 	return 0;
 }
